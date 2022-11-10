@@ -1,0 +1,24 @@
+GIT Summary:
+
+0: commit dghde1f0ybdbnd9dr8ujt099fjkfbdntn8ae1f3a3c5
+1: Author: Elmar Kenguerli <KNGELM003@myuct.ac.za>
+2: Date: <Mon Sept 06 18:18:36 2021 +0200
+3:
+4: Animating words
+5:
+6: commit 976nsc4ghjppo97m9760fse5jynseahuuturfbc7e1
+7: Author: Elmar Kenguerli <KNGELM003@myuct.ac.za>
+8: Date: Mon Sept 06 21:08:22 2021 +0200
+9:
+10: Animating complete
+...
+37: Author: Elmar Kenguerli <KNGELM003@myuct.ac.za>
+38: Date: Tue Sept 07 23 20:58:17 2021 +0200
+39:
+40: Working but race conditions present
+41:
+42: commit 86rskj737764nb397n987n9h4n8aer938hpip013
+43: Author: Elmar Kenguerli <KNGELM003@myuct.ac.za>
+44: Date: Tue Sept 07 22:24:30 2021 +0200
+45:
+46: Fully working with no race conditions
